@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rodmen07
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby and Javascript
