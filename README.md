@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rodmen07
 - 👀 I’m interested in full stack web development/software engineering
-- 🌱 I’m currently learning Ruby/Rails, HTML/CSS, Javascript/React/Redux, and Postgre/SQL
+- 🌱 I’m currently learning Ruby/Rails, HTML/CSS, Javascript/React/Redux, Postgre/SQL, Mongo DB, and Express.
