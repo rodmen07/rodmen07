@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm @rodmen07 👋</h1>
 <p>I'm interested in full stack web development/software engineering.</p>
-<p>Currently learning:</p>
+<p>Currently working with:</p>
 <ul>
   <li>Ruby/Rails</li>
   <li>HTML/CSS</li>
