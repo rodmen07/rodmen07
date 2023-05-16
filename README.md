@@ -6,10 +6,9 @@
 <p>Currently, I'm learning:</p>
 <ul>
   <li>Ruby/Rails</li>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>JavaScript/React/Node</li>
   <li>SQL/PostgreSQL</li>
+  <li>HTML/CSS</li>
 </ul>
 
 <p>I'm building full-stack web applications to gain hands-on experience in applying my skills and knowledge.</p>
