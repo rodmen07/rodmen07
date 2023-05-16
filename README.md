@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm @rodmen07 👋</h1>
+<h1 align="center">Hi, I'm Roderick! 👋</h1>
 <p>I'm interested in full stack web development/software engineering.</p>
 <p>Currently working with:</p>
 <ul>
