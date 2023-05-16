@@ -3,7 +3,7 @@
 
 <p>I have a strong foundation in process development, project management, and problem-solving, which I'm leveraging to excel as a full-stack web developer. I'm passionate about creating online financial tools and I'm interested in creating interactive data visualizations that allow users to explore economic trends and patterns.</p>
 
-<p>Currently, I'm learning:</p>
+<p>Currently, I'm working with:</p>
 <ul>
   <li>Ruby/Rails</li>
   <li>JavaScript/React/Node</li>
