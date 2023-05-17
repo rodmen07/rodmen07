@@ -6,7 +6,7 @@
 <p>Currently, I'm working with:</p>
 <ul>
   <li>Ruby/Rails</li>
-  <li>JavaScript/React/Node</li>
+  <li>JavaScript/Express/React/Node</li>
   <li>SQL/PostgreSQL</li>
   <li>HTML/CSS</li>
 </ul>
