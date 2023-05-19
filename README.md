@@ -5,7 +5,7 @@
 
 <p>Currently, I'm working with:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,rails,heroku,css,html,d3,git,github,mongodb,nodejs,postgres,postman,redux,ruby,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,rails,heroku,css,html,d3,git,github,mongodb,nodejs,postgres,postman,redux,ruby,vscode&perline=8)](https://skillicons.dev)
 
 <p>I'm building full-stack web applications to gain hands-on experience in applying my skills and knowledge.</p>
 
