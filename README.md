@@ -4,12 +4,7 @@
 <p>I have a strong foundation in process development, project management, and problem-solving, which I'm leveraging to excel as a full-stack web developer. I'm passionate about creating online financial tools and I'm interested in creating interactive data visualizations that allow users to explore economic trends and patterns.</p>
 
 <p>Currently, I'm working with:</p>
-<ul>
-  <li>Ruby/Rails</li>
-  <li>JavaScript/Express/React/Node</li>
-  <li>SQL/PostgreSQL</li>
-  <li>HTML/CSS</li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,d3, git, github, heroku, mongodb, nodejs, postgres, postman, rails, react, redux, ruby, vscode)](https://skillicons.dev)
 
 <p>I'm building full-stack web applications to gain hands-on experience in applying my skills and knowledge.</p>
 
