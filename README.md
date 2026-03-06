@@ -1,14 +1,26 @@
-<h1 align="center">Hi there, I'm Roderick 👋</h1>
-<p align="center">As a driven financial specialist with a passion for technology, I'm excited to transition into full-stack web development and create innovative solutions that make an impact.</p>
+Cloud & Platform Engineer | AWS · GCP | Rust · Python · TypeScript | Data Pipelines · AI Infra
 
-<p>I have a strong foundation in process development, project management, and problem-solving, which I'm leveraging to excel as a full-stack web developer. I'm passionate about creating online financial tools and I'm interested in creating interactive data visualizations that allow users to explore economic trends and patterns.</p> 
+# Hi, I'm Roderick 👋
 
-<p>Currently, I'm working with:</p>
+Cloud and platform engineer with a trajectory through full-stack web development, 
+data engineering, and cloud infrastructure. I build production-grade data pipelines 
+and AI-integrated backend systems on AWS and GCP.
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,rails,heroku,css,html,d3,git,github,mongodb,nodejs,postgres,postman,redux,ruby,vscode&perline=8)](https://skillicons.dev)
+Currently working with:
 
-<p>I'm building full-stack web applications to gain hands-on experience in applying my skills and knowledge.</p>
+[![My Skills](https://skillicons.dev/icons?i=rust,python,ts,aws,gcp,dynamodb,docker,git,linux,vscode&perline=10)](https://skillicons.dev)
 
-<p>I'm always looking to connect with like-minded individuals and collaborate on exciting projects. If you're interested in learning more about my experience or checking out my portfolio, please don't hesitate to send me a message or connect with me <a href="https://www.linkedin.com/in/roderick-mendoza-9133b7b5/">here on LinkedIn</a>.</p> 
+**Core focus:**
+- AWS event-driven pipelines — Lambda, S3, SQS, DynamoDB — with emphasis on 
+  idempotency, back-pressure, and fault-tolerant design
+- AI infrastructure and orchestration 
+  → [`ai-orchestrator-service`](https://github.com/rodmen07/ai-orchestrator-service)
+- Rust for systems and backend services 
+  → [`dynamodb_prototype`](https://github.com/rodmen07/dynamodb_prototype) · [`backend-service`](https://github.com/rodmen07/backend-service)
+- Cloud-native architecture patterns on AWS and GCP
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rodmen07&theme=dark)](https://git.io/streak-stats) 
+I build systems that are correct first, observable second — explicit error handling 
+and defined failure modes over happy-path assumptions.
+
+Connect on [LinkedIn](https://www.linkedin.com/in/roderick-mendoza-9133b7b5/) 
+or reach out if you're working in the cloud, data, or AI infra space.
