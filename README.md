@@ -54,5 +54,5 @@ I treat infrastructure as a product, not a chore. That means:
 
 ## Let's Connect
 
-Building an AI product and need production infrastructure?  
+Building an AI product and need production infrastructure?  [Hire me!](https://rodmen07.github.io/frontend-service/#/)
 Reach out on [LinkedIn](https://www.linkedin.com/in/roderick-mendoza-9133b7b5/) — I'm always open to talking shop.
